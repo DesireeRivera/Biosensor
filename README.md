@@ -6,7 +6,7 @@ biofuel cells, portable batteries, wearables, nanoparticles, amperometry, ICU, t
 
 ### Project Description ###
 Innovative Approach of two types of non-invasive skin sensor (electrochemical and optical)
-Based on continuous measurement of lactate with a biofuel power supply thus achieving autonomous, non-invasive, preventive, personalized, accurate, and real-time monitoring of patients.
+based on continuous measurement of lactate with a biofuel power supply thus achieving autonomous, non-invasive, preventive, personalized, accurate, and real-time monitoring of patients.
 
 The document is written in spanish
 
